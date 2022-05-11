@@ -1,0 +1,265 @@
+{
+    "breadcrumb": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Breadcrumb",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1186"
+                }
+            }
+        }
+    },
+    "plan_breadcrumb": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Plan Breadcrumb",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1131"
+                }
+            }
+        }
+    },
+    "seminar_breadcrumb": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Seminar Breadcrumb",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1131"
+                }
+            }
+        }
+    },
+    "banner": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Banner",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1281"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "seminars": {
+        "builder": true,
+        "name": "Seminars",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1282"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "about": {
+        "builder": true,
+        "name": "About Us",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"992x923"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "content": "textarea",
+            "modal": true
+        }
+    },
+    "counter": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Counter",
+        "element": {
+            "title": "text",
+            "number": "text",
+            "modal": true
+        }
+    },
+    "plans": {
+        "builder": true,
+        "name": "Plans",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1280"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "how_work": {
+        "builder": true,
+        "name": "How It Works",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "title": "text",
+            "content": "textarea",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1282"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "name": "text",
+            "review": "textarea",
+            "rating": "text",
+            "modal": true
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"992x662",
+                    "thumb":"626x387"
+                }
+            },
+            "title": "text",
+            "short_description": "textarea",
+            "description": "textarea-nic",
+            "modal": false
+        }
+    },
+
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"1920x987"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x960"
+                },
+                "payment_image":{
+                    "size":"385x51"
+                }
+            },
+            "heading": "text",
+            "button": "text",
+            "button_link": "text",
+            "footer_content": "textarea",
+            "copyright": "text"
+        }
+    },
+
+    "policy_pages": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+
+    "ad_image": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Advertises",
+        "content": {
+            "images":{
+                "ad_image_1":{
+                    "size":"270x385"
+                },
+                "ad_image_2":{
+                    "size":"270x385"
+                }
+            },
+            "ad_image_1_link": "text",
+            "ad_image_2_link": "text"
+        }
+    },
+
+    "contact": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Contact",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"992x662"
+                }
+            },
+            "title": "text",
+            "content": "text",
+            "address": "text",
+            "phone": "text",
+            "email": "text",
+            "map_latitude": "text",
+            "map_longitude": "text"
+        }
+    },
+
+    "account": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Account",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"1920x1079"
+                }
+            }
+        }
+    }
+}
